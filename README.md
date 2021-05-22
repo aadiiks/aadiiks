@@ -9,7 +9,7 @@ aadiiks/aadiiks is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aadiiks&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" align:"center">
+<img src="https://github-readme-stats.vercel.app/api?username=aadiiks&&show_icons=true&title_color=ffffff&text_color=daf7dc&bg_color=000000" />
 </p>
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadiiks&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
  -->
@@ -19,7 +19,9 @@ You can click the Preview link to take a look at your changes.
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadiiks&show_icons=true&theme=radical&layout=compact"> -->
 
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-<!--   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=aadiiks&langs_count=4&theme=material-palenight&layout=compact" /> -->
-
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadiiks&langs_count=4&theme=material-palenight&layout=compact" /> -->
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadiiks&langs_count=10&theme=tokyonight" />
+</p>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadiiks)](https://github.com/anuraghazra/github-readme-stats) -->
