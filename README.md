@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadiiks&langs_count=4&theme=material-palenight&layout=compact" /> -->
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadiiks&langs_count=15&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadiiks&langs_count=10&theme=tokyonight" />
 </p>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadiiks)](https://github.com/anuraghazra/github-readme-stats) -->
