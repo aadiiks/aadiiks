@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ADITYA KUMAR SINGH @aadiiks
+- 👋 Hi, I’m ADITYA KUMAR SINGH @aadiiks aka 0xA4di1
 - 👀 I’m interested in ... Web Development, Ethical Hacking, CTFs and Competitive Programming
 - 🌱 I’m currently learning ...Full Stack Web-Development
 - 💞️ I’m looking to collaborate on ...
