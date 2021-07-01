@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aadiiks&&show_icons=true&title_color=ffffff&text_color=daf7dc&bg_color=000000" />
+<img src="https://github-readme-stats.vercel.app/api?username=aadiiks&count_private=true&show_icons=true&title_color=ffffff&text_color=daf7dc&bg_color=000000" />
 </p>
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadiiks&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
@@ -36,6 +36,5 @@ You can click the Preview link to take a look at your changes.
  
  
 #### Overall profile stats
-![](https://github-readme-stats.vercel.app/api?username=aadiiks&count_private=true&theme=merko&show_icons=true&hide=prs)
 
-<img src="https://gpvc.arturio.dev/aadiiks" alt="profile views"/>  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Aman1905?style=social"/> 
+<img src="https://gpvc.arturio.dev/aadiiks" alt="profile views"/>  <img alt="GitHub followers" src="https://img.shields.io/github/followers/aadiiks?style=social"/> 
