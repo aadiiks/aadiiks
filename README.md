@@ -33,3 +33,9 @@ You can click the Preview link to take a look at your changes.
 <!-- <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod" />
  </p> -->
+ 
+ 
+#### Overall profile stats
+![](https://github-readme-stats.vercel.app/api?username=aadiiks&count_private=true&theme=merko&show_icons=true&hide=prs)
+
+<img src="https://gpvc.arturio.dev/aadiiks" alt="profile views"/>  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Aman1905?style=social"/> 
