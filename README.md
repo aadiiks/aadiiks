@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Web Development, Ethical Hacking, CTFs and Competitive Programming
 - 🌱 I’m currently learning ...Full Stack Web-Development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...via instagram(@usr.aadiiks), discord(@0xA4di1#1021).
+- 📫 How to reach me ...via instagram(@aadiiks_), discord(@0xA4di1#1021).
 
 <!---
 aadiiks/aadiiks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
