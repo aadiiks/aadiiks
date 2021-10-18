@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 <!-- &title_color=ffffff&text_color=daf7dc&bg_color=000000 -->
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadiiks&langs_count=15&layout=compact&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadiiks&langs_count=16&layout=compact&theme=cobalt" />
 </p>
 <!-- &theme=tokyonight -->
 
