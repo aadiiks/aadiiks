@@ -1,4 +1,4 @@
-Buy Me a Coffee:
+<!-- Buy Me a Coffee: -->
 
 Hi 👋 My name is Aditya Kumar Singh
 ===================================
