@@ -39,6 +39,13 @@ I've been learning to code for 3 years and like to learn new technologies in day
                   
 <p align="left"> <a href="https://www.codepen.io/aadiiks" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://discord.com/users/739481736215527454" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/aadiiks" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/aadiiks" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/aadiiks_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aadiiks" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/aadiiks" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/LetsBreakSecurity" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
+<h1 align="center">My Workbench 💻 </h1>
+<div align="center">
+  <img title="Windows" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img title="Processor" alt="CPU" src="https://img.shields.io/badge/Intel-i5--1035G1-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/nvidia-mx%20250-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white"/>
+  
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -113,14 +120,8 @@ You can click the Preview link to take a look at your changes.
   <img title="IntelliJ" alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
   <img title="React.Js" alt="React.Js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img title="Java" alt="Java" src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-</div>
-<h1 align="center">My Workbench 💻 </h1>
-<div align="center">
-  <img title="Windows" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img title="Processor" alt="CPU" src="https://img.shields.io/badge/Intel-i5--1035G1-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/nvidia-mx%20250-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white"/>
- -->
+</div> -->
+
 <!-- Wakatime dashboard -->
 <!-- <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod" />
