@@ -9,10 +9,10 @@ Web Developer and Security Researcher
 I've been learning to code for 3 years and like to learn new technologies in day to day life. Currently a CSE undergrad student at BCREC with knowledge in Development and Security.
 
 *   🌍  I'm based in India
-*   🖥️  See my portfolio at [My Portfolio](http://trial.com)
+*   🖥️  See my portfolio at [My Portfolio]()
 *   ✉️  You can contact me at [infosec.aditya.singh@gmail.com](mailto:infosec.aditya.singh@gmail.com)
-*   🚀  I'm currently working on [InDevelopment](http://notyet.com)
-*   🧠  I'm learning MERN STACK
+*   🚀  I'm currently working on [InDevelopment]()
+*   🧠  I'm learning WEB+SEC
 *   🤝  I'm open to collaborating on Bug Hunting Tools, Front End Development
 *   ⚡  I'm can grab new things quickly.... but don't tell anyone.
 
@@ -31,7 +31,7 @@ I've been learning to code for 3 years and like to learn new technologies in day
                                 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
                                 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
                                 <a href="https://docs.alchemy.com/alchemy/documentation/alchemy-web3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/alchemy-colored.svg" width="36" height="36" alt="Alchemy" /></a>
-                                <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
+                                <!-- <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a> -->
                     </p>
                     
 
