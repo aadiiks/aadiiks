@@ -6,7 +6,7 @@ Hi 👋 My name is Aditya Kumar Singh
 Web Developer and Security Researcher
 -------------------------------------
 
-I've been learning to code for 3 years and like to learn new technologies in day to day life. Currently a CSE undergrad student at BCREC with knowledge in Development and Security.
+I've been learning to code for 3 years and like to learn new technologies in day to day life. Currently a CSE Grad with knowledge in Development and Security.
 
 *   🌍  I'm based in India
 *   🖥️  See my portfolio at [My Portfolio](https://aadiiks.github.io/portfolio/)
